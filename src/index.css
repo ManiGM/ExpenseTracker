@@ -25,34 +25,34 @@ body {
 }
 
 .App {
-	padding: 30px;
+	padding: 29px;
 }
 
 header {
 	display: flex;
 	justify-content: space-between;
-	padding: 15px;
+	padding: 14px;
 }
 
 h1 {
 	color: var(--grey);
-	font-size: 32px;
-	font-weight: 600;
+	font-size: 30px;
+	font-weight: 500;
 	text-align: left;
 }
 
 .total-income {
 	color: var(--grey);
-	font-size: 28px;
+	font-size: 27px;
 	font-weight: 900;
 	background-color: #DFDFDF;
-	padding: 5px 25px;
-	border-radius: 8px;
+	padding: 4px 24px;
+	border-radius: 7px;
 }
 
 .income-form {
 	display: block;
-	margin: 15px;
+	margin: 14px;
 	position: relative;
 }
 
